@@ -1,16 +1,28 @@
 ## Hi there 👋
+I am a coorporate student studying Data Science & AI at DHBW-Mannheim. I work on data analysis and I build projects that finetune and deploy LLMs or ML-models into production (No, these are not API-Wrappers).
 
-<!--
-**Namtare/Namtare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I do 💼
 
-Here are some ideas to get you started:
+- 📊 **Data Scientist**: Analyzing data, optimizing LLM behaviour, and help driving decisions with ML-solutions
+- 🎓 **Student Representative**: Developing AI chatbots, automation scripts, and productivity tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack 🛠️
+
+**Languages:**
+- Python, JavaScript, SQL, HTML/CSS
+
+**Data Science & ML:**
+- 🐍 Pytorch, Pandas, Scikit-learn, NumPy
+- ☁️ PySpark, MLFlow
+
+**Databases:**
+- PostgreSQL, MySQL
+- Azure Data Lake Storage, Databricks
+
+**Tools:**
+- Git, Docker
+- HuggingFace, Kaggle
+
+## Let's Connect 🤝
+- 💼 LinkedIn [Questions about me?](https://www.linkedin.com/in/philip-erdmann-986102330/)
+- 📧 Email: philip@earthmen.net
