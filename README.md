@@ -4,7 +4,7 @@ I am a coorporate student studying Data Science & AI at DHBW-Mannheim. I work on
 ## What I do 💼
 
 - 📊 **Data Scientist**: Analyzing data, optimizing LLM behaviour, and help driving decisions with ML-solutions
-- 🎓 **Student Representative**: Developing AI chatbots, automation scripts, and productivity tools
+- 🎓 **Student Representative**: Developing AI chatbot, automation scripts, and productivitz enhancements
 
 ## Tech Stack 🛠️
 
