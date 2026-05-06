@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a coorporate student studying Data Science & AI at DHBW-Mannheim. I work on data analysis and I build projects that finetune and deploy LLMs or ML-models into production (No, these are not API-Wrappers).
+I am a coorporate student studying Data Science & AI at DHBW-Mannheim. I work on data analysis and I build projects that finetune and deploy LLMs or ML-models into production (developed with a mix of Pytorch and React).
 
 ## What I do 💼
 
