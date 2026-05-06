@@ -24,5 +24,5 @@ I am a coorporate student studying Data Science & AI at DHBW-Mannheim. I work on
 - HuggingFace, Kaggle
 
 ## Let's Connect 🤝
-- 💼 LinkedIn [Questions about me?](https://www.linkedin.com/in/philip-erdmann-986102330/)
+- 💼 LinkedIn: [Questions about me?](https://www.linkedin.com/in/philip-erdmann-986102330/)
 - 📧 Email: philip@earthmen.net
